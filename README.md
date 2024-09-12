@@ -37,6 +37,12 @@
 ```
 或查看详细的[插件安装说明](https://qchatgpt.rockchin.top/develop/plugin-intro.html#%E6%8F%92%E4%BB%B6%E7%94%A8%E6%B3%95)
 
+## 说明
+当收到B站视频链接时，对B站链接进行分析并发送封面，标题，作者等内容。
+（自己逼逼：电脑看B站分享视频习惯直接发链接，但朋友看到链接一般不会点进去，虽然手机QQ也已经有了自动解析功能,就当做着练练手了）
+
 ## 使用
+发送B站链接之后即可自动解析
+![9892a35b356824efa8d34d41f717525](https://github.com/user-attachments/assets/37b3b577-d5dd-498f-a78a-6c8fed36a133)
 
 <!-- 插件开发者自行填写插件使用说明 -->
